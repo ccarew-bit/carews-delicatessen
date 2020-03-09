@@ -1,0 +1,59 @@
+header {
+  background-color: red;
+  color: yellow
+}
+
+.links {
+  background-color: purple;
+  color: cyan;
+}
+
+.contactNumber {
+  color: pink;
+  font-family: 'Lucida Sans'
+}
+
+.pbj {
+  background-color: cyan;
+  color: purple
+}
+
+.ham {
+  background-color: pink;
+  color: red;
+}
+
+.alice {
+  background: lightgreen;
+  color: blue
+}
+
+.knuckle {
+  color: red;
+}
+
+* {
+  text-align: center;
+}
+
+* {
+  font-family: courier;
+}
+
+ul {
+  display: inline-block;
+  text-align: left
+}
+
+ol {
+  display: inline-block;
+  text-align: left
+}
+
+.event {
+  color: cornflowerblue;
+}
+
+.description {
+  color: purple;
+}
